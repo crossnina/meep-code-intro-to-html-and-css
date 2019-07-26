@@ -1,0 +1,71 @@
+.five-sixths,
+.four-sixths,
+.four-fifths,
+.one-fifth,
+.one-fourth,
+.one-half,
+.one-sixth,
+.one-third,
+.three-fourths,
+.three-fifths,
+.three-sixths,
+.two-fourths,
+.two-fifths,
+.two-sixths,
+.two-thirds {
+	float: left;
+	margin-left: 3.5%;
+}
+ 
+.one-half,
+.three-sixths,
+.two-fourths {
+	width: 48.25%;
+}
+ 
+.one-third,
+.two-sixths {
+	width: 31%;
+}
+ 
+.four-sixths,
+.two-thirds {
+	width: 65.5%;
+}
+ 
+.one-fourth {
+	width: 22.375%;
+}
+ 
+.three-fourths {
+	width: 74.125%;
+}
+ 
+.one-fifth {
+	width: 17.2%;
+}
+ 
+.two-fifths {
+	width: 37.9%;
+}
+ 
+.three-fifths {
+	width: 58.6%;
+}
+ 
+.four-fifths {
+	width: 79.3%;
+}
+ 
+.one-sixth {
+	width: 13.75%;
+}
+ 
+.five-sixths {
+	width: 82.75%;
+}
+ 
+.first {
+	clear: both;
+	margin-left: 0;
+}
